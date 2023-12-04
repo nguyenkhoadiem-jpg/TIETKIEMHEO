@@ -67,7 +67,6 @@
         <input id="daily-allowance" class="savings-input" type="number">
 
         <button class="savings-button" onclick="calculateSavings()">Tính toán</button>
-    </div>
 
     <div class="savings-result">
         <h2>Phân chia chi tiêu hàng ngày:</h2>
