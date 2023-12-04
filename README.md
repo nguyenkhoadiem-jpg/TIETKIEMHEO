@@ -62,7 +62,6 @@
     </style>
 </head>
 <body>
-      </script>
     <h1>Ứng dụng tiết kiệm tiền CON HEO ĐẤT</h1>
         <label for="daily-allowance">Nhập số tiền trợ cấp hàng ngày (Ngàn VNĐ):</label>
         <input id="daily-allowance" class="savings-input" type="number">
